@@ -90,8 +90,8 @@
 		<div class="col-xs-12 col-md-6 image right">
 		</div>
 		<div class="descr">
-			<h4>Podstawowy cel</h4>
-			<p>Podstawowym celem, który przyświeca organizatorom targów jest budowanie oddolnych więzi gospodarczych z sąsiednią Ukrainą.</p>
+			<h4>Cel</h4>
+			<p>Celem, który przyświeca organizatorom targów jest budowanie oddolnych więzi gospodarczych z sąsiednią Ukrainą.</p>
 		</div>
 	</div>
 	<div class="row advantage no-padding">
